@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aziz Hijazi Real Estate</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log IN</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="names">Name :</string>
+    <string name="emails">Email :</string>
+    <string name="mobiles">Mobile :</string>
+    <string name="national_numbers">National number :</string>
+    <string name="family_member">Family_members :</string>
+    <string name="genders">Genders :</string>
+    <string name="actions_count">Actions count :</string>
+    <string name="total">Total :</string>
+    <string name="category_ids">Category Id :</string>
+    <string name="amounts">Amount :</string>
+    <string name="detailss">Details :</string>
+    <string name="actor_ids">Actor Id :</string>
+    <string name="actor_types">Actor Type :</string>
+    <string name="category_name">Category Name :</string>
+    <string name="dates">Date :</string>
+    <string name="id">ID</string>
+    <string name="financial_movements">Financial Movements</string>
+    <string name="financial_categories">Financial Categories</string>
+    <string name="change_password">Change Password</string>
+    <string name="ChangePassword">Change Password</string>
+</resources>
